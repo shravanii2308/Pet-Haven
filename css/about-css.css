@@ -26,6 +26,10 @@ nav ul li {
   list-style: none;
   padding: 0 23px;
 }
+nav ul li a{
+  color:black; 
+  text-decoration-line: none;
+}
 nav ul li a:hover {
   font-weight: bold;
 }
